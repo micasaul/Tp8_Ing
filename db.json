@@ -1,0 +1,25 @@
+{
+    "tickets": [
+        {
+            "id": "67890",
+            "descripcion": "Problema con la conexión a Internet",
+            "fechaAlta": "10-09-2024",
+            "estado": "0",
+            "id.cliente": "12345"
+        }
+    ],
+    "clientes": [
+        {
+            "nombre": "Juan Perez",
+            "email": "juan.perez@example.com",
+            "password": "secret",
+            "fecha_ultimo_ingreso": "10-09-2024",
+            "fecha_cambio_password": "01-01-2024",
+            "registrado": true,
+            "activo": true,
+            "primer_ingreso": false,
+            "fecha_alta": "01-01-2024",
+            "id": "12345"
+        }
+    ]
+}
